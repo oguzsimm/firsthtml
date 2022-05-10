@@ -1,0 +1,1 @@
+A coverage of patika.dev HTML course
