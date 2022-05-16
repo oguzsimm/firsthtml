@@ -1,3 +1,26 @@
 body { 
     background-color:bisque;
 }
+.recipe {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+.recipe .recipe-head {
+    text-decoration: underline;
+    margin-right: 1rem;
+    color: brown;
+}
+
+.recipe .recipe-details {
+    margin-top: 2rem;
+}
+.recipe .recipe-details .recipe-details-head {
+    background-color: brown;
+    color: rgb(253, 253, 5);
+    font-weight: bold;
+    padding: 0 0,25rem;
+    border-radius: 0,5rem;
+    width: max-content;
+    font-style: italic;
+}
